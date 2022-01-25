@@ -1,0 +1,146 @@
+
+*{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    text-indent: 5px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+nav{
+    margin:0px;
+    padding: 50px;
+    font-weight: bold;
+}
+.head{
+    color: #ffffff;
+    font-size: 60px;
+    padding: 10px;
+    text-indent: 25px;
+    font-weight: 600;
+}
+.sub_head{
+    color:#c997d8;
+    font-size: 30px;
+    text-indent: 25px;
+    padding: 10px;
+    font-weight: 400;
+}
+.section_head{
+    color:purple;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding:25px;
+
+}
+.button{
+    display: inline-block;
+    font-size: larger;
+}
+
+#Home{
+    background-color: #361341;
+    color: #ffffff;
+    text-align: left;
+    overflow:hidden;
+}
+.virus-rafiki1{
+    float:right;
+}
+.mask{
+    border:#361341 solid 1px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    padding: 25px;
+    text-align: left;
+    float: center;
+    border-radius: 5px;
+    overflow: hidden;
+    vertical-align: middle;
+    line-height: 250px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #361341;
+}
+.hands{
+    border:#361341 solid 1px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    padding: 25px;
+    text-align: right;
+    float: center;
+    border-radius: 5px;
+    overflow: hidden;
+    vertical-align: middle;
+    line-height: 250px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #361341;
+}
+#Symptoms{
+    background-color: plum;
+    margin: 0px;
+    padding: 50px;
+    text-align: center;
+}
+table{
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th{
+    border: 5px solid purple;
+    background-color: white;
+    margin: 15px;
+    padding: 30px;
+    font-size: 20px;
+}
+.faq_all{
+    border: 1px solid #361341;
+    border-radius: 5px;
+    margin: 25px;
+    padding:10px;
+    font-size: large;
+}
+.faq_ques{
+    border: 1px solid purple;
+    border-radius: 5px;
+    margin:35px;
+    padding:15px;
+    list-style-position: inside;
+}
+.faq_head{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    margin: 10px;
+}
+.faq_sublist,.faq_sublist{
+    list-style-position: inside;
+}
+p{
+    margin:10px;
+    text-indent: 5px;
+}
+#Youtube{
+    text-align:center;
+    position: relative;
+    overflow: hidden;
+    max-width: 100%;
+    padding-bottom: 50px;
+}
+footer{
+    padding:25px;
+    text-align:center;
+    font-size: 23px;
+    background-color: #361341;
+    color: white;
+}
